@@ -1,4 +1,4 @@
-# Calculator-using-CPP
+# Basic-Calculator-using-CPP
 
 # Implementing a calculator in C++ using the concept of the classes.
 
